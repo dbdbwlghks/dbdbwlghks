@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 [![dbdbwlghks's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbdbwlghks&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![dbdbwlghks's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbdbwlghks)](https://github.com/anuraghazra/github-readme-stats)
